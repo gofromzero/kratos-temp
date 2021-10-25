@@ -1,0 +1,5 @@
+internal/conf/*.pb.go
+internal/data/ent/*
+!internal/data/ent/generate.go
+!internal/data/ent/schema
+
